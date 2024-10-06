@@ -17,7 +17,7 @@ Our project is built using a robust tech stack designed to deliver both accuracy
 
 
 
-📽️ Check out our Google Slides presentation for the project by clicking HERE (no login required.)
+📽️ Check out our Google Slides presentation for the project by clicking [HERE](https://docs.google.com/presentation/d/1XE9BVXDVc_6dW13as7yPt9luXrk4j8ZKY58cEvZzwS8/edit?usp=sharing) (no login required.)
 
 🔗 We have also claimed the https://neotarium.co domain from the NASA Space Apps Challenge Global Offers.
 (The WebApp is not live yet.)
