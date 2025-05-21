@@ -24,6 +24,6 @@ Our project is built using a robust tech stack designed to deliver both accuracy
 
 "We kindly request fellow participants to respect the originality of our work and refrain from copying any part of our project. Our team has put in a lot of effort and creativity to develop this idea, and we encourage everyone to showcase their unique contributions."
 
-Thanks for taking the time to go through this.
+Thanks ❤️ for taking the time to go through this.
 
 <image src = "CC Logo Icon.ico" alt = "CC Logo"> 
